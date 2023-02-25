@@ -1,6 +1,6 @@
 # MemBot-GPT
 
-MemBot is a Discord bot that uses OpenAI's GPT-3 model to generate responses based on prompts provided by users. The bot is designed to help users with their Membean vocabulary homework, reminding them to do three 15-minute sessions per week.
+MemBot is a Discord bot that uses OpenAI's GPT-2 model to generate responses based on prompts provided by users. The bot is designed to help users with their Membean vocabulary homework, reminding them to do three 15-minute sessions per week.
 
 ## Getting Started
 
